@@ -3,7 +3,7 @@
 class ClassA
 {
 private:
-    /* data */
+    std::string str;
 public:
     ClassA(/* args */);
     ~ClassA();
