@@ -3,7 +3,8 @@
 class ClassA
 {
 private:
-    /* data */
+    int a{0};
+    int b{0};
 public:
     ClassA(/* args */);
     ~ClassA();
