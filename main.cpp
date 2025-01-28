@@ -11,6 +11,10 @@ public:
 
 ClassA::ClassA(/* args */)
 {
+    if (condition) {
+        
+    }
+    
 }
 
 ClassA::~ClassA()
