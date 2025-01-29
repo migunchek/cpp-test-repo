@@ -9,7 +9,7 @@ private:
     int c{0};
     int d{0};
     std::string str_2;
-
+    std::string str_3;
 public:
     ClassA(/* args */);
     ~ClassA();
